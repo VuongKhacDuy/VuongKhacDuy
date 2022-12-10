@@ -8,11 +8,10 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="Swift" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=4B32C3" alt="Flutter logo" title="Flutter" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=21759B" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=21759B" alt="Python logo" title="Python" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Keras-282C34?logo=Keras&logoColor=21759B" alt="Keras logo" title="Keras" height="25" /></span>
-
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=TensorFlow&logoColor=21759B" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
 
