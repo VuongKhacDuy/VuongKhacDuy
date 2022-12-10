@@ -7,36 +7,31 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="Swift" height="25" /></span>
-&nbsp;
-
+<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=4B32C3" alt="Flutter logo" title="Flutter" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=21759B" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
+
 
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=TensorFlow&logoColor=21759B" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
 
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=GitLab&logoColor=F05032" alt="GitLab logo" title="GitLab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=007ACC" alt="GitHub logo" title="GitHub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bitbucket-282C34?logo=Bitbucket&logoColor=007ACC" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
 &nbsp;
 
+<span><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=007ACC" alt="Xcode logo" title="Xcode" height="25" /></span>
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=21759B" alt="SQLite logo" title="SQLite" height="25" /></span>
-&nbsp;
-
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 <span><img src="https://img.shields.io/badge/FastAPI-282C34?logo=FastAPI&logoColor=4B32C3" alt="FastAPI logo" title="FastAPI" height="25" /></span>
-&nbsp;
-
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
