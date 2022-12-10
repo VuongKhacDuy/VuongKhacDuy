@@ -28,6 +28,7 @@
 
 <span><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=007ACC" alt="Xcode logo" title="Xcode" height="25" /></span>
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=Anaconda&logoColor=007ACC" alt="Anaconda logo" title="Anaconda" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=21759B" alt="SQLite logo" title="SQLite" height="25" /></span>
