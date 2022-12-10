@@ -67,20 +67,12 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VuongKhacDuy-linkedin" />
   </a>
   
-  <!-- 
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:vuongkhacduy@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vuongkhacduy-email" />
   </a>
 </div>
 
-<br> -->
+<br>
 
 <!-- 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
