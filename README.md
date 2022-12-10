@@ -11,13 +11,14 @@
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=21759B" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 
+<span><img src="https://img.shields.io/badge/Keras-282C34?logo=Keras&logoColor=21759B" alt="Keras logo" title="Keras" height="25" /></span>
 
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=TensorFlow&logoColor=21759B" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /></span>
-<span><img src="https://img.shields.io/badge/JS-282C34?logo=JS&logoColor=1572B6" alt="JS logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=1572B6" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
@@ -36,9 +37,9 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
-<!-- 
+
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2> -->
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <br>
 <div align=center>
