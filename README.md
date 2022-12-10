@@ -7,6 +7,8 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="Swift" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CocoaPods-282C34?logo=CocoaPods&logoColor=007ACC" alt="CocoaPods logo" title="CocoaPods" height="25" /></span>
+<span><img src="https://img.shields.io/badge/UIkit-282C34?logo=UIkit&logoColor=007ACC" alt="UIkit logo" title="UIkit" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=4B32C3" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
 
@@ -23,12 +25,18 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=GitLab&logoColor=F05032" alt="GitLab logo" title="GitLab" height="25" /></span>
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=007ACC" alt="GitHub logo" title="GitHub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Jira Software-282C34?logo=Jira Software&logoColor=007ACC" alt="Jira Software logo" title="Jira Software" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Bitbucket-282C34?logo=Bitbucket&logoColor=007ACC" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=007ACC" alt="Xcode logo" title="Xcode" height="25" /></span>
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=Anaconda&logoColor=007ACC" alt="Anaconda logo" title="Anaconda" height="25" /></span>
+
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=007ACC" alt="Jupyter logo" title="Jupyter" height="25" /></span>
+
+<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=Google Colab&logoColor=007ACC" alt="Google Colab logo" title="Google Colab" height="25" /></span>
+
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=21759B" alt="SQLite logo" title="SQLite" height="25" /></span>
