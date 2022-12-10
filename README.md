@@ -32,11 +32,8 @@
 <span><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=007ACC" alt="Xcode logo" title="Xcode" height="25" /></span>
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=Anaconda&logoColor=007ACC" alt="Anaconda logo" title="Anaconda" height="25" /></span>
-
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=007ACC" alt="Jupyter logo" title="Jupyter" height="25" /></span>
-
 <span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=Google Colab&logoColor=007ACC" alt="Google Colab logo" title="Google Colab" height="25" /></span>
-
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=21759B" alt="SQLite logo" title="SQLite" height="25" /></span>
@@ -45,20 +42,19 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
-
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <br>
+<br>
 <div align=center>
   <a href="#" title="VuongKhacDuy">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuongKhacDuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="VuongKhacDuy">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
+<!-- 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br> -->
