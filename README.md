@@ -46,7 +46,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span> -->
 &nbsp;
-<!-- 
+
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -86,7 +86,7 @@
 </div>
 
 <br>
-
+<!-- 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
@@ -105,12 +105,12 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
+</a> -->
 
-<br>
+<!-- <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/VuongDuy-quotes.svg" width="846" height="150" alt="vuongkhacduy-official" />
-</a> -->
+</a>  -->
 
