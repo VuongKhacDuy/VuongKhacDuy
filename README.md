@@ -71,8 +71,8 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vuongkhacduy-email" />
   </a>
   
-  <a href="mailto:vuongkhacduy@gmail.com" target="top">
-    <img src="https://icons8.com/icon/63766/globe" alt="vuongkhacduy-email" />
+  <a href="Website:VuongKhacDuy.github.io" target="top">
+    <img src="https://img.icons8.com/color/512/globe.png" alt="vuongkhacduy-website" />
   </a>
   
 </div>
