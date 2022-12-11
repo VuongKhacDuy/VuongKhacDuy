@@ -71,7 +71,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vuongkhacduy-email" />
   </a>
   
-  <a href="Website:VuongKhacDuy.github.io" target="top">
+  <a href="https://vuongkhacduy.github.io" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/web.png" alt="vuongkhacduy-website" />
   </a>
   
