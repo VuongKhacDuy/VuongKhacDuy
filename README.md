@@ -72,7 +72,7 @@
   </a>
   
   <a href="Website:VuongKhacDuy.github.io" target="top">
-    <img src="https://icons8.com/icon/116999/web" alt="vuongkhacduy-website" />
+    <img src="https://img.icons8.com/bubbles/100/000000/web.png" alt="vuongkhacduy-website" />
   </a>
   
 </div>
