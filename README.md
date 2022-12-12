@@ -59,9 +59,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/ElbyTyn/" target="blank">
+<!--   <a href="https://www.facebook.com/ElbyTyn/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VuongKhacDuy-facebook" />
-  </a>
+  </a> -->
   
   <a href="https://www.linkedin.com/in/duy-vuong-786146138/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VuongKhacDuy-linkedin" />
