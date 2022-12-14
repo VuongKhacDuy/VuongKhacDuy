@@ -6,11 +6,11 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="Swift" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="Swift" height="25" /></span>
 <span><img src="https://img.shields.io/badge/CocoaPods-282C34?logo=CocoaPods&logoColor=007ACC" alt="CocoaPods logo" title="CocoaPods" height="25" /></span>
 <span><img src="https://img.shields.io/badge/UIkit-282C34?logo=UIkit&logoColor=007ACC" alt="UIkit logo" title="UIkit" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=4B32C3" alt="Flutter logo" title="Flutter" height="25" /></span>
-&nbsp;
+&nbsp; -->
 
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=21759B" alt="Python logo" title="Python" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Keras-282C34?logo=Keras&logoColor=21759B" alt="Keras logo" title="Keras" height="25" /></span>
