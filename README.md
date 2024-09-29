@@ -75,7 +75,7 @@ homeHeader<!-- VuongKhacDuy -->
   </a>
   
   <a href="https://vuongkhacduy.github.io" target="top">
-    <img src="https://static.vecteezy.com/system/resources/previews/003/731/316/non_2x/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="vuongkhacduy-website" />
+    <img src="https://img.icons8.com/bubbles/100/000000/web.png" alt="vuongkhacduy-website" />
   </a>
   
 </div>
