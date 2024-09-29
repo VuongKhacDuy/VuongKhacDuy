@@ -75,7 +75,7 @@ homeHeader<!-- VuongKhacDuy -->
   </a>
   
   <a href="https://vuongkhacduy.github.io" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/web.png" alt="vuongkhacduy-website" />
+    <img src="https://img.icons8.com/?size=96&id=80449&format=png" alt="vuongkhacduy-website" />
   </a>
   
 </div>
