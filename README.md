@@ -1,4 +1,4 @@
-<!-- VuongKhacDuy -->
+homeHeader<!-- VuongKhacDuy -->
 <a href="#" target="_blank">
   <img src="svg/VuongDuy.svg" width="1200" alt="vuongkhacduy-official" />
 </a>
@@ -18,10 +18,12 @@
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=TensorFlow&logoColor=21759B" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
 
+<!-- 
 <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=1572B6" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+ -->
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=GitLab&logoColor=F05032" alt="GitLab logo" title="GitLab" height="25" /></span>
