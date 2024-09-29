@@ -7,7 +7,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="Swift" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Swift-282C34?logo=Swift&logoColor=4B32C3" alt="Swift logo" title="SwiftUI" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SwiftUI-282C34?logo=Swift&logoColor=AAC332" alt="SwiftUI logo" title="SwiftUI" height="25" /></span>
 <span><img src="https://img.shields.io/badge/CocoaPods-282C34?logo=CocoaPods&logoColor=007ACC" alt="CocoaPods logo" title="CocoaPods" height="25" /></span>
 <span><img src="https://img.shields.io/badge/UIkit-282C34?logo=UIkit&logoColor=007ACC" alt="UIkit logo" title="UIkit" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=4B32C3" alt="Flutter logo" title="Flutter" height="25" /></span>
